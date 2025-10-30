@@ -1,5 +1,44 @@
 # 11) Hybrid Trust for E-Collecting
 
+wir alle wollen die direkte Demokratie digitaler machen – aber nicht flacher.
+
+Heute entstehen Initiativen aus Begegnung: am Bahnhof, auf dem Markt, im persönlichen Gespräch. Wenn wir E-Collecting komplett ins Web verlagern, öffnen wir die Tür für Bots, Massenmobilisierung und algorithmische Emotion statt echter Überzeugung.
+
+Deshalb brauchen wir eine Grenze – aber keine künstliche.
+
+Manche schlagen Obergrenzen oder Kontingente für digitale Unterschriften vor. Doch das wäre diskriminierend innerhalb der Sammelfrist:
+Wer früher unterschreibt, zählt; wer später kommt, nicht mehr. Demokratie ist aber kein „first-come-first-served“-System.
+
+Der richtige Weg ist hybrid:
+Sammler:innen bleiben auf der Strasse – aber mit einer App, die über Near Field oder Bluetooth eine temporäre Signatur-Session öffnet.
+Bürger:innen unterschreiben direkt vor Ort, digital, nachvollziehbar, aber mit persönlicher Interaktion.
+
+So digitalisieren wir die Verwaltung, nicht die Überzeugung.
+Wir schaffen Effizienz im Back-Office – aber halten den demokratischen Diskurs lebendig.
+
+Unser Ziel: Technologie, die Demokratie stärkt, nicht ersetzt.
+
+
+Unser Konzept heisst Hybrid Trust for E-Collecting.
+
+Es basiert auf einem einfachen Prinzip:
+Digitalisierung darf Prozesse beschleunigen, aber nicht Menschen ersetzen.
+
+Jede Sammler:in wird digital authentifiziert und kann vor Ort einen kurzlebigen QR-Code erzeugen.
+Bürger:innen scannen diesen Code mit ihrer eID- oder Wallet-App und signieren die Unterstützung.
+Die Daten werden automatisch validiert, dedupliziert und im Audit-Ledger erfasst – aber die Begegnung bleibt physisch.
+
+Damit verhindern wir populistische Massenkampagnen und gleichzeitig auch digitale Diskriminierung:
+Kein Modell mit Obergrenzen oder Kontingenten, die Menschen ausschliessen,
+sondern Gleichbehandlung aller Bürger:innen während der gesamten Sammelfrist.
+
+Auf technischer Ebene:
+– temporäre QR-Sessions über Bluetooth oder Near Field,
+– Verifiable Credentials oder QeS-Signaturen,
+– automatisierte Back-Office-Prüfungen per OCR und LLM-Validierung.
+
+Das Ergebnis ist ein faires, inklusives, auditierbares System,
+das Effizienz und Legitimität gleichzeitig wahrt – ein Schritt zu einer digital gestützten, aber weiterhin menschlichen Demokratie.
 
 Digitalisierung der Verifikation – nicht der Überzeugung.
 Democracy by Design, nicht by Algorithm.
@@ -25,10 +64,30 @@ Kernaussage: Wir behalten die physische Begegnung beim Sammeln bei (Stand, Markt
 
 # 1) Problem & Zielbild
 
-Problem: Reines Web-E-Collecting würde die analoge Interaktion verdrängen und Bots/Massenmobilisierung begünstigen. Obergrenzen/ Kontingente für digitale Signaturen wären diskriminierend innerhalb der Sammelfrist (First-come-first-served).
+Problem: 
+E-Collecting ist eine notwendige Weiterentwicklung der direkten Demokratie.
+
+Doch die derzeitige Diskussion konzentriert sich zu stark auf digitale Vereinfachung, statt auf demokratische Verantwortung.
+
+
+
+Wenn Unterschriften künftig nur noch online gesammelt werden, entstehen erhebliche Risiken:
+
+Populistische Massenmobilisierung über Bots und Social-Media-Kampagnen
+
+Verlust der analogen Begegnung – des sozialen Kitts der Schweizer Demokratie
+
+Diskriminierung durch technische Obergrenzen („max. 10 000 digitale Signaturen“)
+
+Ungleichheit innerhalb der Sammelfrist – eine „First Come First Served-Demokratie“
+
+Digitalisierung darf die Demokratie unterstützen, nicht ersetzen.
+
+Darum braucht es eine klare Abgrenzung zwischen Effizienzsteigerung und Ersetzungsmechanismus.
 
 Zielbild:
-	•	Hybridität: Sammlung bleibt physisch initiiert, Signatur digital vor Ort (NFC/Bluetooth/Proximity) über zeitlich/örtlich gebundene QR-Sessions.
+	•	Hybridität: Sammlung bleibt physisch initiiert, Signatur digital vor Ort (NFC/Bluetooth/Proximity) über zeitlich/örtlich gebundene QR-Sessions, faktisch neben dem Zettel für diskriminierungsfreie Unterschriftssammlung
+	•	Einfaches Sammeln, statt Zettel drucken und Sammeln, nun einfach mit App sammeln, einfach auf der Webseite anonym sich als sammler mit der App melden, sodass die app nun unterschriften sammeln kann, also wie eine PDF runterladen und drucken.
 	•	Digitalisierung im Backoffice: automatische Verifikation, Dubletten-Check, Audit-Trail.
 	•	Fairness & Inklusion: Kein Ausschluss, keine Obergrenzen; Papier bleibt integriert.
 
