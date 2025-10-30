@@ -370,7 +370,7 @@ Eine Nutzung, Reproduktion oder Weiterentwicklung des hier beschriebenen Modells
 
 Eine Umsetzung in jeder Form erfordert meine ausdrückliche Genehmigung.
 
-Kontakt für Lizenzanfragen: Roman Zoun (roman.zoun(at)gmail.com)
+Kontakt für Lizenzanfragen: Roman Zoun (roman.zoun@gmail.com)
 
 
 
